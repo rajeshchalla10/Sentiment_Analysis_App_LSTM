@@ -12,5 +12,5 @@ This project focuses on performing sentiment analysis using Long Short-Term Memo
 
 ## Prerequisites
 
-Python 3.6 or higher.
-Required Python libraries: tensorflow, nltk, scikit-learn, pandas, numpy.
+- Python 3.6 or higher.
+- Required Python libraries: tensorflow, nltk, scikit-learn, pandas, numpy.
